@@ -102,7 +102,8 @@ window.WEDDING_DATA = {
   },
   meta: {
     title: "Arcot Mohammad Arshad & Shaik Naziya Ruhi — Wedding Invitation",
-    description: "Nikah: Sunday, 11 October 2026 at G.R. Function Hall, Anantapur. Valima: Tuesday, 13 October 2026 at Bojjaih Convention Hall, Tadipatri.",
+    description: "Insha Allah, join the wedding celebrations of Arcot Mohammad Arshad & Shaik Naziya Ruhi. Nikah: Sunday, 11 October 2026 at G.R. Function Hall, Anantapur. Valima: Tuesday, 13 October 2026 at Bojjaih Convention Hall, Tadipatri.",
     url: "https://arshad-weds-ruhi.invitingyou.top/",
+    image: "https://arshad-weds-ruhi.invitingyou.top/editable/assets/og-image.jpg",
   },
 };
