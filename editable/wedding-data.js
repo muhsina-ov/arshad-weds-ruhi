@@ -24,7 +24,7 @@ window.WEDDING_DATA = {
     valimaVenue: "Bojjaih Convention Hall, Anantapur Road, Tadipatri",
     valimaMapsUrl: "https://maps.app.goo.gl/8HNS9GiV2fyR88dC8?g_st=ac",
   },
-  dressCode: "Traditional Islamic / Festive Indian Elegance",
+  dressCode: "",
   hero: {
     kicker: "۷۸۶ • In the name of Allah, the Most Gracious, the Most Merciful",
     eyebrow: "Wedding Celebration",
@@ -35,13 +35,13 @@ window.WEDDING_DATA = {
     subtitle: "We solicit your benign presence on the auspicious wedding ceremony of our elder son",
     groom: {
       name: "Arcot Mohammad Arshad",
-      role: "The Groom • B.Tech (ECE)",
-      text: "Software Engineer (Oracle DBA) at Infosys, Bangalore. Elder son of Al-Haj Arcot Shaik Shavali & Al-Hajjah Arcot Thahaseen. With the blessings of Late Mrs. & Mr. Hussain Peera (Paternal) and Late Mrs. & Mr. Kummetha Khadermohiddin (Maternal).",
+      role: "The Groom",
+      text: "Software Engineer (Oracle DBA) at Infosys, Bangalore.\n\nElder son of Al-Haj Arcot Shaik Shavali & Al-Hajjah Arcot Thahaseen.",
     },
     bride: {
       name: "Shaik Naziya Ruhi",
-      role: "The Bride • B.Tech (ECE), Pursuing M.B.A",
-      text: "Investigation Specialist at Amazon. Beloved daughter of Mr. Shaik Himam Mohiddin (Ex C.R.P.F.) & Mrs. Shaik Naseema.",
+      role: "The Bride",
+      text: "Investigation Specialist at Amazon.\n\nBeloved daughter of Mr. Shaik Himam Mohiddin (Ex C.R.P.F.) & Mrs. Shaik Naseema.",
     },
   },
   chapters: [
@@ -49,13 +49,13 @@ window.WEDDING_DATA = {
       no: "Nikah",
       title: "Nikah Ceremony (Insha Allah)",
       when: "Sunday 11th October 2026 • 12:15 PM",
-      text: "29th Rabi-ul-akhir 1448 Hijri\nVenue: G.R. Function Hall, 3rd Road, Gate No.1, Anantapur\n\nWe solicit your gracious presence and prayers as Arcot Mohammad Arshad and Shaik Naziya Ruhi unite in sacred matrimony.",
+      text: "29th Rabi-ul-akhir 1448 Hijri\nVenue: G.R. Function Hall, 3rd Road, Gate No.1, Anantapur",
     },
     {
       no: "Valima",
       title: "Valima Reception (Insha Allah)",
       when: "Tuesday 13th October 2026 • 1:30 PM",
-      text: "1st Jamadi-ul-Awwal 1448 Hijri\nVenue: Bojjaih Convention Hall, Anantapur Road, Tadipatri\n\nJoin us for a grand celebratory feast, warm blessings, and heartfelt congratulations for the newlyweds.",
+      text: "1st Jamadi-ul-Awwal 1448 Hijri\nVenue: Bojjaih Convention Hall, Anantapur Road, Tadipatri",
     },
     {
       no: "Blessing",
@@ -79,7 +79,7 @@ window.WEDDING_DATA = {
     seal: "./editable/assets/invite-seal.png",
     openVideo: "./editable/assets/invite-open.mp4",
     lantern: "./editable/assets/lantern.png",
-    heroPalace: "./editable/assets/hero-palace.jpg",
+    heroPalace: "",
     bougainvillea: "./editable/assets/bougainvillea.png",
     goldFlourish: "./editable/assets/gold-flourish.png",
     portraitBride: "./editable/assets/portrait-bride.jpg",
