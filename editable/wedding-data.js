@@ -99,7 +99,9 @@ window.WEDDING_DATA = {
     ar3: "./editable/assets/ar3.jpg",
     ar4: "./editable/assets/ar4.jpg",
     ar5: "./editable/assets/ar5.jpg",
+    bgMusic: "./editable/assets/bg-music.mp3",
   },
+  music: "./editable/assets/bg-music.mp3",
   meta: {
     title: "Arshad & Ruhi — Wedding Invitation",
     description: "Wedding celebrations of Arshad & Ruhi. Nikah: 11 Oct at Anantapur · Valima: 13 Oct at Tadipatri. Tap to view invitation.",

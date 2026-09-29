@@ -54,6 +54,10 @@ Replace files in `editable/assets/` or update paths in `wedding-data.js`:
 - `mapPlate`: Illustrated map illustration
 - `sceneDancing`, `sceneWalking`, etc.: Illustrated chapter scenes
 
+### 8. Background Music
+Replace `editable/assets/bg-music.mp3` or update `music` in `editable/wedding-data.js`:
+- `music`: Path to background music audio file (`bg-music.mp3`)
+
 ---
 
 ## Rules for Future Agents
