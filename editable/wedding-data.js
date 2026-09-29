@@ -99,7 +99,15 @@ window.WEDDING_DATA = {
     ar3: "./editable/assets/ar3.jpg",
     ar4: "./editable/assets/ar4.jpg",
     ar5: "./editable/assets/ar5.jpg",
+    ar6: "./editable/assets/ar6.jpg",
     bgMusic: "./editable/assets/bg-music.mp3",
+  },
+  scratchCard: {
+    title: "A Special Reveal",
+    subtitle: "Scratch & Reveal",
+    instruction: "Rub the golden foil with your finger or mouse to unveil the portrait",
+    image: "./editable/assets/ar6.jpg",
+    caption: "Arcot Mohammad Arshad & Shaik Naziya Ruhi",
   },
   music: "./editable/assets/bg-music.mp3",
   meta: {

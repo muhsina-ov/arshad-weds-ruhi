@@ -58,6 +58,13 @@ Replace files in `editable/assets/` or update paths in `wedding-data.js`:
 Replace `editable/assets/bg-music.mp3` or update `music` in `editable/wedding-data.js`:
 - `music`: Path to background music audio file (`bg-music.mp3`)
 
+### 9. Scratch Card (Interactive Reveal)
+Edit `scratchCard` in `editable/wedding-data.js` or replace `editable/assets/ar6.jpg`:
+- `image`: Couple portrait revealed after scratching (`editable/assets/ar6.jpg`)
+- `title` & `subtitle`: Card heading and prompt text
+- `instruction`: User scratch guidance text
+- `caption`: Lightbox caption shown when photo opens after scratch
+
 ---
 
 ## Rules for Future Agents
