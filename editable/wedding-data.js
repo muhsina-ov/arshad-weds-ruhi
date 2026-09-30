@@ -5,7 +5,7 @@
 
 window.WEDDING_DATA = {
   couple: {
-    bride: "Ruhi",
+    bride: "Naziya",
     groom: "Arshad",
     brideFull: "Shaik Naziya Ruhi",
     groomFull: "Arcot Mohammad Arshad",
